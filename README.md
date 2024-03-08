@@ -4,7 +4,7 @@
 WTH is an acronym for "Which sensitive To High profanity"; it is a highly anti-profanity bot. Its goal is to keep your discussions tidy by eliminating any offensive language or personalized remarks.
 
 ### Getting Started
-1. First off, clone the repo with: <code>git clone https://github.com/TechAngle/wtp-telegram-bot</code> 
+1. First off, clone the repo with: <code>git clone https://github.com/TechAngle/wth-telegram-bot</code> 
 2. Head over to **@BotFather** on Telegram to create your own bot and grab its token. Then, open up `config.py` and pop that token into the `TOKEN` variable.
 3. Write your Telegram id or username in `admin` variable (it will use to contact you)
 
